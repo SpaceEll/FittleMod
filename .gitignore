@@ -1,59 +1,10 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+/bin/
 
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear on external disk
-.Spotlight-V100
-.Trashes
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-.classpath
-.gradle/2.0/taskArtifacts/cache.properties
-.gradle/2.0/taskArtifacts/cache.properties.lock
-*.bin
-*.log
-.settings/org.eclipse.jdt.core.prefs
-eclipse/.metadata
-gradle/
-CREDITS-fml.txt
-forge-1.7.10-10.13.2.1291-changelog.txt
-gradlew.bat
-gradlew
-LICENSE-fml.txt
-MinecraftForge-Credits.txt
-MinecraftForge-License.txt
+/eclipse/
 README.txt
+MinecraftForge-Licence.txt
+MinecraftForge-Credits.txt
+LICENSE-fml.txt
+CREDITS-fml.txt
+MinecraftForge-License.txt
+forge-1.7.10-10.13.2.1291-changelog.txt

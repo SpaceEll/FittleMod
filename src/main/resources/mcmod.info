@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "foodiemod",
+  "name": "The Foodie Mod",
+  "description": "This mod add's fun food to your game!",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["SpaceEll"],
+  "credits": "This was made by SpaceEll",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
