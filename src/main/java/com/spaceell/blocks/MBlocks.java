@@ -12,17 +12,11 @@ public class MBlocks {
 	}
 	
 	
-	public static Block FTable;
-	public static Block blockWorkSurface;
-	public static int guiIDWorkSurface = 1;
-	
-	
 	public static void initalizeBlock() {
-		blockWorkSurface = new WorkSurface().setBlockName("WorkSurface");
+		
 	}
 	
 	public static void registerBlock() {
-		GameRegistry.registerBlock(blockWorkSurface, blockWorkSurface.getUnlocalizedName());
 		
 	}
 	

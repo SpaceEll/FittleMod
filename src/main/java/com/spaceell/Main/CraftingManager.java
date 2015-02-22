@@ -22,8 +22,9 @@ public class CraftingManager {
 	GameRegistry.addRecipe(new ItemStack(MItems.BSword, 1), new Object[]{" B "," B "," S ", 'B', MItems.Butter, 'S', Items.stick });
 	GameRegistry.addRecipe(new ItemStack(MItems.BAxe, 1), new Object[]{"BB ","BS "," S ", 'B', MItems.Butter, 'S', Items.stick });
 	GameRegistry.addRecipe(new ItemStack(MItems.BSpade, 1), new Object[]{" B "," S "," S ", 'B', MItems.Butter, 'S', Items.stick });
+	GameRegistry.addRecipe(new ItemStack(MItems.Flour, 1), new Object[]{"   "," X ","   ", 'X', Items.wheat});
 		//Shapeless
-	GameRegistry.addShapelessRecipe(new ItemStack(Items.wheat, 1), new ItemStack(MItems.Flour));
+	
 	}
 	
 	public static void addSmeltingRec(){
